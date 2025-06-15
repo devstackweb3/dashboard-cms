@@ -20,3 +20,17 @@ Hasura Serveur permet de faire fonctionner de manière constante les API
   `Container docker (généré depuis image docker)`
 
 - NextJS | npm run dev
+
+## Deployment Configuration 
+
+### Docker | Image "hasura/graphql-engine"
+Container "nervous_hermann"
+*Nom du container est amené à évoluer si Container Docker est amené à être stoppé/redémarré*
+Héberge le serveur hasura
+Checker l'état des container actifs | VPS : 
+`sudo docker ps`
+
+Déploiement container | ordinateur local : 
+start
+
+### 
