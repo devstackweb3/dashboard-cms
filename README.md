@@ -14,6 +14,9 @@ Hasura Serveur permet de faire fonctionner de manière constante les API
 ### Tools
 - pgAdmin4 | Graphical Overview of PostGreSQL
 - Docker | Hasura serveur sur container docker
+
   `Image docker (catalogue de services)`
+
   `Container docker (généré depuis image docker)`
+
 - NextJS | npm run dev
