@@ -1,5 +1,5 @@
 # dashboard-cms | Back-End (Notion inspired)
-Customer Management System | Articles, Authors &amp; Customers requests
+CMS - Content Management System | Articles, Authors &amp; Customers requests
 
 ## Tech Stack 
 - NextJS (Node module)
